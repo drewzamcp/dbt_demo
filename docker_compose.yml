@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  postgres:
+    container_name: pdm_dbt_demo
+    image: postgres:15.4
+    ports:
+      - '5431:5432'
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: pgpass
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    volumes:
+    - /Users/azwerd/datadev/pdm_dbt_demo/pg_data:/var/lib/postgresql/data
