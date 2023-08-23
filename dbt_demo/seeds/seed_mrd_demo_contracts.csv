@@ -1,0 +1,57 @@
+contract_no,prov_code,investor_name,portfolio,active,region,prod_type,rep_currency,prod_category,prod_mandate,prod_code,advisor,reporting
+AGRA759033,AG,Selie Elderfield,Dionysus Kagan,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGLA294596,AG,Lanie Chitter,Lanie Chitter,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+AGOS295392,AG,Trista Dooland,Trista Dooland,1,offshore,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGLP223212,AG,Natty Cantillon,Natty Cantillon,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGLA307042,AG,Natty Cantillon,Natty Cantillon,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+AGLA216343,AG,Natty Cantillon,Natty Cantillon,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+AGLP211652,AG,Adriena Norres,Adriena Norres,1,local,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGPE553699,AG,Roddy Durram,Roddy Durram,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGLA346299,AG,Kirby Armes,Kirby Armes,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGLA294422,AG,Dari Gradon,Lanie Chitter,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+AGLP756375,AG,Jamie Olyonov,Jamie Olyonov,1,local,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGTF753191,AG,Jamie Olyonov,Jamie Olyonov,1,local,direct,ZAR,Tax Free Savings,discretionary,TFSA,FJR,TRUE
+AGLA270537,AG,Celine Dmytryk,Celine Dmytryk,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+AGLA112526,AG,Sydel Fawdrie,Sydel Fawdrie,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+AGOS89031,AG,Martica Hurring,Sydel Fawdrie,1,offshore,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGLP659467,AG,Martica Hurring,Sydel Fawdrie,1,local,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGPR719206,AG,Pierson Berney,Pierson Berney,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGPE523388,AG,Pierson Berney,Pierson Berney,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGPE251255,AG,Arnoldo Maddocks,Arnoldo Maddocks,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGRA137601,AG,Berkeley Hellicar,Berkeley Hellicar,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGLP699112,AG,Cristen McRuvie,Cristen McRuvie,1,local,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGRA367263,AG,Jeralee Tabourel,Jeralee Tabourel,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGRA399093,AG,Thalia Dalzell,Thalia Dalzell,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGLP749540,AG,Dionysus Kagan,Dionysus Kagan,1,local,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGRA337809,AG,Natty Cantillon,Natty Cantillon,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGRA421552,AG,Wendeline Gullivan,Wendeline Gullivan,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGRA426519,AG,Wendeline Gullivan,Wendeline Gullivan,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGRA284372,AG,Cass Cudbird,Francesca Kleszinski Family Trust,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGUT05486,AG,Martica Hurring,Sydel Fawdrie,1,local,direct,ZAR,Unit Trust,discretionary,UT,FJR,TRUE
+AGUT117437,AG,Sydel Fawdrie,Sydel Fawdrie,1,local,direct,ZAR,Unit Trust,discretionary,UT,FJR,TRUE
+AGRA150562,AG,Berkeley Hellicar,Berkeley Hellicar,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGRA455788,AG,Cristen McRuvie,Cristen McRuvie,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGLP603594,AG,Caroline Spalding Trust,Caroline Spalding Trust,1,local,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGPE758813,AG,Selie Elderfield,Dionysus Kagan,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGUT184858,AG,Wendeline Gullivan,Wendeline Gullivan,1,local,direct,ZAR,Unit Trust,discretionary,UT,FJR,TRUE
+AGRA831485,AG,Pierson Berney,Pierson Berney,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+AGOS698191,AG,Jamie Olyonov,Jamie Olyonov,1,offshore,direct,ZAR,Flexible Investment,discretionary,FIO,FJR,TRUE
+AGLP891876,AG,Mata Du Barry Family Trust,Lanie Chitter,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGLP921075,AG,Illa Gwioneth,Illa Gwioneth,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGLA927408,AG,Natty Cantillon,Natty Cantillon,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGLP931864,AG,Zonda Hodinton,Harmon Haggarty Trust,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+AGLP933816,AG,Ginger Whitford,Harmon Haggarty Trust,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+7766611,GL,Mathias Rubenczyk,Arnowicz Partners Trust,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+7780018,GL,Mathias Rubenczyk,Arnowicz Partners Trust,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+7815251,GL,Thorn Lismer,Francesca Kleszinski Family Trust,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+7841091,GL,Lethia Batter,Tammara Searight,1,local,direct,ZAR,Tax Free Savings,discretionary,TFSA,FJR,TRUE
+7861552,GL,Worth Bonnesen,Worth Bonnesen,1,local,direct,ZAR,Retirement Annuity,compulsory,RA,FJR,TRUE
+7910896,GL,Jobye Grichukhin,Jobye Grichukhin,1,local,direct,ZAR,Preservation,compulsory,PRES,FJR,TRUE
+517290,GL,Mathias Rubenczyk,Arnowicz Partners Trust,1,local,direct,ZAR,Reporting,discretionary,REP,FJR,TRUE
+7898703,GL,Erinna Stuckley,Thalia Dalzell,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+7944085,GL,Cass Cudbird,Francesca Kleszinski Family Trust,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+7982531,GL,Kandace McHugh,Pierson Berney,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+8032195,GL,Tammara Searight,Tammara Searight,1,local,direct,ZAR,Tax Free Savings,discretionary,TFSA,FJR,TRUE
+8102089,GL,Auberon Rosenhaus,Auberon Rosenhaus,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+8111486,GL,Bondy Willcocks,Bondy Willcocks,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
+8152092,GL,Axe Dunnico Family Trust,Axe Dunnico Family Trust,1,local,direct,ZAR,Living Annuity,compulsory,LA,FJR,TRUE
